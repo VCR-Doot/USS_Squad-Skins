@@ -18,7 +18,7 @@ Adds skins for the Hunk survivor based on other U.S.S agents from the Resident E
 
 ![](https://github.com/VCR-Doot/USS_Squad-Skins/blob/Viewables/CS_V.png?raw=true)
 
-All skins added are intended to follow RoR2's existing art-style and will not be a 1-1 translation of their official appearances from the games 
+All skins added are intended to follow RoR2's existing art-style and will not be a 1-1 translation of their official models from the games 
 
 # Credits
 Big thanks to the team behind the Hunk mod for an amazing survivor https://thunderstore.io/package/rob_gaming/HUNK/
